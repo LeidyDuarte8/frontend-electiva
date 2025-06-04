@@ -1,5 +1,8 @@
-# Vue 3 + Vite
+1. Descripción del problema o del sistema
+Aquí debes escribir en pocas líneas qué hace tu aplicación. Ejemplo:
+Este sistema permite la gestión de roles y usuarios, donde puedes:
+Crear roles (como administrador, editor, usuario).
+Crear usuarios asociados a un rol específico.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Visualizar listas de usuarios y roles registrados.
+El objetivo es ofrecer una base para controlar accesos o permisos según el rol.
